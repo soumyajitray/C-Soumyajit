@@ -1,0 +1,6 @@
+This program is for binary search in a Array. To use this function use the following steps:
+1. keep binSearch.c and binSearchFunc.h both in the same folder if you are running from terminal.
+2. To compile the code, type in the command line:
+   $ g++ binSearch.c -o a.out
+3. Enter how many number you want to enter in the array
+4. Enter the Number you wanna Search in the array
